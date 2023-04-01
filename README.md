@@ -1,4 +1,4 @@
-# CALCULATOR TYPESCRIPT
+# CALCULATOR 
 
 Scientific Calculator
 This is a simple scientific calculator function written in JavaScript that can evaluate mathematical expressions with the following operators:
